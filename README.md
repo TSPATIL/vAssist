@@ -39,8 +39,6 @@ To get started with the Vehicle Breakdown System, follow these steps:
    ```bash  
    cd vehicle-breakdown-system
    npm install
-
-   ```bash
    cd backend
    npm install
    
