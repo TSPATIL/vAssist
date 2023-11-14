@@ -36,10 +36,14 @@ To get started with the Vehicle Breakdown System, follow these steps:
 
 2. Install dependencies:
 
-cd vehicle-breakdown-system
-npm install
-cd backend
-npm install
+   ```bash  
+   cd vehicle-breakdown-system
+   npm install
+
+   ```bash
+   cd backend
+   npm install
+   
 Set up the environment variables for API keys, email configuration, and other sensitive information.
 
 3. Install mongodb and mongodb compass in your computer.
@@ -52,8 +56,9 @@ Set up the environment variables for API keys, email configuration, and other se
 
 7. Run the application:
    
-cd .. (in vehicle-breakdown-system folder)
-npm run both
+   ```bash   
+   cd .. \\(in vehicle-breakdown-system folder)
+   npm run both
 
 8. Visit the following URLs in your browser:
 
